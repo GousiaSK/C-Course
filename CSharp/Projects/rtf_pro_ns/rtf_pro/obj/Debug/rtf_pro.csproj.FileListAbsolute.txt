@@ -1,0 +1,10 @@
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\bin\Debug\my_first.rtf
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\bin\Debug\rtf_pro.exe
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\bin\Debug\rtf_pro.pdb
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\obj\Debug\rtf_pro.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\obj\Debug\rtf_pro.Form1.resources
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\obj\Debug\rtf_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\obj\Debug\rtf_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\obj\Debug\rtf_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\obj\Debug\rtf_pro.exe
+C:\Users\Rec User\source\repos\rtf_pro_ns\rtf_pro\obj\Debug\rtf_pro.pdb
