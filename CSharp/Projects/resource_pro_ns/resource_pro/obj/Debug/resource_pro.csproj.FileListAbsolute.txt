@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\obj\Debug\resource_pro.Form1.resources
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\obj\Debug\resource_pro.Form2.resources
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\obj\Debug\resource_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\obj\Debug\resource_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\bin\Debug\resource_pro11.exe
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\bin\Debug\resource_pro11.pdb
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\obj\Debug\resource_pro11.exe
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\obj\Debug\resource_pro11.pdb
+C:\Users\Rec User\source\repos\resource_pro_ns\resource_pro\obj\Debug\resource_pro_ns.Properties.Resources.resources
