@@ -1,0 +1,8 @@
+C:\Users\Rec User\source\repos\enviroment_pro_ns\enviroment_pro\bin\Debug\enviroment_pro.exe
+C:\Users\Rec User\source\repos\enviroment_pro_ns\enviroment_pro\bin\Debug\enviroment_pro.pdb
+C:\Users\Rec User\source\repos\enviroment_pro_ns\enviroment_pro\obj\Debug\enviroment_pro.Form1.resources
+C:\Users\Rec User\source\repos\enviroment_pro_ns\enviroment_pro\obj\Debug\enviroment_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\enviroment_pro_ns\enviroment_pro\obj\Debug\enviroment_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\enviroment_pro_ns\enviroment_pro\obj\Debug\enviroment_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\enviroment_pro_ns\enviroment_pro\obj\Debug\enviroment_pro.exe
+C:\Users\Rec User\source\repos\enviroment_pro_ns\enviroment_pro\obj\Debug\enviroment_pro.pdb

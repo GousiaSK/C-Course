@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\form_properties\form_properties\bin\Debug\form_properties.exe
+C:\Users\Rec User\source\repos\form_properties\form_properties\bin\Debug\form_properties.pdb
+C:\Users\Rec User\source\repos\form_properties\form_properties\obj\Debug\form_properties.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\form_properties\form_properties\obj\Debug\form_properties.Form1.resources
+C:\Users\Rec User\source\repos\form_properties\form_properties\obj\Debug\form_properties.Properties.Resources.resources
+C:\Users\Rec User\source\repos\form_properties\form_properties\obj\Debug\form_properties.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\form_properties\form_properties\obj\Debug\form_properties.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\form_properties\form_properties\obj\Debug\form_properties.exe
+C:\Users\Rec User\source\repos\form_properties\form_properties\obj\Debug\form_properties.pdb

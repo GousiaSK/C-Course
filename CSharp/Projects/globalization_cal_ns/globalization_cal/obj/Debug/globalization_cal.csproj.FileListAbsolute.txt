@@ -1,0 +1,8 @@
+C:\Users\Rec User\source\repos\globalization_cal_ns\globalization_cal\bin\Debug\globalization_cal.exe
+C:\Users\Rec User\source\repos\globalization_cal_ns\globalization_cal\bin\Debug\globalization_cal.pdb
+C:\Users\Rec User\source\repos\globalization_cal_ns\globalization_cal\obj\Debug\globalization_cal.Form1.resources
+C:\Users\Rec User\source\repos\globalization_cal_ns\globalization_cal\obj\Debug\globalization_cal.Properties.Resources.resources
+C:\Users\Rec User\source\repos\globalization_cal_ns\globalization_cal\obj\Debug\globalization_cal.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\globalization_cal_ns\globalization_cal\obj\Debug\globalization_cal.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\globalization_cal_ns\globalization_cal\obj\Debug\globalization_cal.exe
+C:\Users\Rec User\source\repos\globalization_cal_ns\globalization_cal\obj\Debug\globalization_cal.pdb
