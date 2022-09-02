@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\bin\Debug\dialog_pro.exe
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\bin\Debug\dialog_pro.pdb
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\obj\Debug\dialog_pro.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\obj\Debug\dialog_pro.Form1.resources
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\obj\Debug\dialog_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\obj\Debug\dialog_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\obj\Debug\dialog_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\obj\Debug\dialog_pro.exe
+C:\Users\Rec User\source\repos\dialog_pro_ns\dialog_pro\obj\Debug\dialog_pro.pdb
