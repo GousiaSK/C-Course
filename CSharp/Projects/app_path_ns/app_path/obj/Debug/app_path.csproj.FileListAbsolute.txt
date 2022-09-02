@@ -1,0 +1,11 @@
+C:\Users\Rec User\source\repos\app_path_ns\app_path\bin\Debug\app_path.exe
+C:\Users\Rec User\source\repos\app_path_ns\app_path\bin\Debug\app_path.pdb
+C:\Users\Rec User\source\repos\app_path_ns\app_path\obj\Debug\app_path.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\app_path_ns\app_path\obj\Debug\app_path.Form1.resources
+C:\Users\Rec User\source\repos\app_path_ns\app_path\obj\Debug\app_path.Properties.Resources.resources
+C:\Users\Rec User\source\repos\app_path_ns\app_path\obj\Debug\app_path.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\app_path_ns\app_path\obj\Debug\app_path.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\app_path_ns\app_path\obj\Debug\app_path.exe
+C:\Users\Rec User\source\repos\app_path_ns\app_path\obj\Debug\app_path.pdb
+C:\Users\Rec User\source\repos\app_path_ns\app_path\bin\Debug\data\pro\calc.exe
+C:\Users\Rec User\source\repos\app_path_ns\app_path\bin\Debug\data\pics\Koala.jpg
