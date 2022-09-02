@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\bin\Debug\logical_operators.exe
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\bin\Debug\logical_operators.pdb
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\obj\Debug\logical_operators.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\obj\Debug\logical_operators.Form1.resources
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\obj\Debug\logical_operators.Properties.Resources.resources
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\obj\Debug\logical_operators.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\obj\Debug\logical_operators.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\obj\Debug\logical_operators.exe
+C:\Users\Rec User\source\repos\logical_operators_ns\logical_operators\obj\Debug\logical_operators.pdb

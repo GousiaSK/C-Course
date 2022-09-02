@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\bin\Debug\menu_strip.exe
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\bin\Debug\menu_strip.pdb
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\obj\Debug\menu_strip.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\obj\Debug\menu_strip.Form1.resources
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\obj\Debug\menu_strip.Properties.Resources.resources
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\obj\Debug\menu_strip.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\obj\Debug\menu_strip.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\obj\Debug\menu_strip.exe
+C:\Users\Rec User\source\repos\menu_strip_ns\menu_strip\obj\Debug\menu_strip.pdb

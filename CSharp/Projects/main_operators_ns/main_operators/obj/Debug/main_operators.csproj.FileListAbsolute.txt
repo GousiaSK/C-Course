@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\bin\Debug\main_operators.exe
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\bin\Debug\main_operators.pdb
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\obj\Debug\main_operators.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\obj\Debug\main_operators.Form1.resources
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\obj\Debug\main_operators.Properties.Resources.resources
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\obj\Debug\main_operators.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\obj\Debug\main_operators.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\obj\Debug\main_operators.exe
+C:\Users\Rec User\source\repos\main_operators_ns\main_operators\obj\Debug\main_operators.pdb
