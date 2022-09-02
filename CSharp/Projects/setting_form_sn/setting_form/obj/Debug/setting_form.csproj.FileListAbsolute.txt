@@ -1,0 +1,10 @@
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\bin\Debug\setting_form.exe
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\bin\Debug\setting_form.pdb
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\obj\Debug\setting_form.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\obj\Debug\setting_form.Form1.resources
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\obj\Debug\setting_form.Properties.Resources.resources
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\obj\Debug\setting_form.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\obj\Debug\setting_form.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\obj\Debug\setting_form.exe
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\obj\Debug\setting_form.pdb
+C:\Users\Rec User\source\repos\setting_form_sn\setting_form\bin\Debug\setting_form.exe.config

@@ -1,0 +1,10 @@
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\bin\Debug\settings_pro_adv.exe
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\bin\Debug\settings_pro_adv.pdb
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\obj\Debug\settings_pro_adv.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\obj\Debug\settings_pro_adv.Form1.resources
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\obj\Debug\settings_pro_adv.Properties.Resources.resources
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\obj\Debug\settings_pro_adv.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\obj\Debug\settings_pro_adv.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\obj\Debug\settings_pro_adv.exe
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\obj\Debug\settings_pro_adv.pdb
+C:\Users\Rec User\source\repos\settings_pro_adv_ns\settings_pro_adv\bin\Debug\settings_pro_adv.exe.config
