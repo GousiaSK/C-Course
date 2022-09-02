@@ -1,0 +1,18 @@
+C:\Users\Rec User\source\repos\anch_dock_pro_ns\anch_dock_pro\bin\Debug\anch_dock_pro.exe
+C:\Users\Rec User\source\repos\anch_dock_pro_ns\anch_dock_pro\bin\Debug\anch_dock_pro.pdb
+C:\Users\Rec User\source\repos\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.Form1.resources
+C:\Users\Rec User\source\repos\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.exe
+C:\Users\Rec User\source\repos\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.pdb
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\bin\Debug\anch_dock_pro.exe.config
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\bin\Debug\anch_dock_pro.exe
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\bin\Debug\anch_dock_pro.pdb
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.csproj.AssemblyReference.cache
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.Form1.resources
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.Properties.Resources.resources
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.csproj.GenerateResource.cache
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.csproj.CoreCompileInputs.cache
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.exe
+C:\Users\shaik.gousia\Desktop\Full C# Course\project_files_3.parts.csking1981\Peojects\anch_dock_pro_ns\anch_dock_pro\obj\Debug\anch_dock_pro.pdb
