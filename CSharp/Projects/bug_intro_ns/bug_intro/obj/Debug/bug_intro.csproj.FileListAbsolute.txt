@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\obj\Debug\bug_intro.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\obj\Debug\bug_intro.Form1.resources
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\obj\Debug\bug_intro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\obj\Debug\bug_intro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\obj\Debug\bug_intro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\bin\Debug\bug_intro.exe
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\bin\Debug\bug_intro.pdb
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\obj\Debug\bug_intro.exe
+C:\Users\Rec User\source\repos\bug_intro_ns\bug_intro\obj\Debug\bug_intro.pdb

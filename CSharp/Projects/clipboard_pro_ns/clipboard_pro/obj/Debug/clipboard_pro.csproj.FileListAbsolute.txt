@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\bin\Debug\clipboard_pro.exe
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\bin\Debug\clipboard_pro.pdb
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\obj\Debug\clipboard_pro.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\obj\Debug\clipboard_pro.Form1.resources
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\obj\Debug\clipboard_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\obj\Debug\clipboard_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\obj\Debug\clipboard_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\obj\Debug\clipboard_pro.exe
+C:\Users\Rec User\source\repos\clipboard_pro_ns\clipboard_pro\obj\Debug\clipboard_pro.pdb
