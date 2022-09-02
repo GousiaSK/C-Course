@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\bin\Debug\io_txt_file.exe
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\bin\Debug\io_txt_file.pdb
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\obj\Debug\io_txt_file.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\obj\Debug\io_txt_file.Form1.resources
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\obj\Debug\io_txt_file.Properties.Resources.resources
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\obj\Debug\io_txt_file.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\obj\Debug\io_txt_file.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\obj\Debug\io_txt_file.exe
+C:\Users\Rec User\source\repos\io_txt_file_ns\io_txt_file\obj\Debug\io_txt_file.pdb

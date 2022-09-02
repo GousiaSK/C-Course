@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\bin\Debug\io_info_project.exe
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\bin\Debug\io_info_project.pdb
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\obj\Debug\io_info_project.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\obj\Debug\io_info_project.Form1.resources
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\obj\Debug\io_info_project.Properties.Resources.resources
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\obj\Debug\io_info_project.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\obj\Debug\io_info_project.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\obj\Debug\io_info_project.exe
+C:\Users\Rec User\source\repos\io_info_project_ns\io_info_project\obj\Debug\io_info_project.pdb

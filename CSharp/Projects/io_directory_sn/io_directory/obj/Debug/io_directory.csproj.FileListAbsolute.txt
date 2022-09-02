@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\bin\Debug\io_directory.exe
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\bin\Debug\io_directory.pdb
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\obj\Debug\io_directory.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\obj\Debug\io_directory.Form1.resources
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\obj\Debug\io_directory.Properties.Resources.resources
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\obj\Debug\io_directory.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\obj\Debug\io_directory.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\obj\Debug\io_directory.exe
+C:\Users\Rec User\source\repos\io_directory_sn\io_directory\obj\Debug\io_directory.pdb

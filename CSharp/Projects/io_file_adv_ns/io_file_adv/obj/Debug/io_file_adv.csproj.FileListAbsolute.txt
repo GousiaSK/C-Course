@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\bin\Debug\io_file_adv.exe
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\bin\Debug\io_file_adv.pdb
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\obj\Debug\io_file_adv.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\obj\Debug\io_file_adv.Form1.resources
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\obj\Debug\io_file_adv.Properties.Resources.resources
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\obj\Debug\io_file_adv.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\obj\Debug\io_file_adv.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\obj\Debug\io_file_adv.exe
+C:\Users\Rec User\source\repos\io_file_adv_ns\io_file_adv\obj\Debug\io_file_adv.pdb
