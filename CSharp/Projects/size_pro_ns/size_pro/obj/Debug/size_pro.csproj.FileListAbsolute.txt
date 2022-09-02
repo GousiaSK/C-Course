@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\bin\Debug\size_pro.exe
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\bin\Debug\size_pro.pdb
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\obj\Debug\size_pro.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\obj\Debug\size_pro.Form1.resources
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\obj\Debug\size_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\obj\Debug\size_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\obj\Debug\size_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\obj\Debug\size_pro.exe
+C:\Users\Rec User\source\repos\size_pro_ns\size_pro\obj\Debug\size_pro.pdb

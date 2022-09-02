@@ -1,0 +1,14 @@
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\bin\Debug\wmp_pro.exe
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\bin\Debug\wmp_pro.pdb
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\wmp_pro.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\wmp_pro.csproj.ResolveComReference.cache
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\wmp_pro.Form1.resources
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\wmp_pro.Properties.Resources.resources
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\wmp_pro.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\wmp_pro.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\wmp_pro.exe
+C:\Users\Rec User\source\repos\wmp_pro_ns\wmp_pro\obj\Debug\wmp_pro.pdb

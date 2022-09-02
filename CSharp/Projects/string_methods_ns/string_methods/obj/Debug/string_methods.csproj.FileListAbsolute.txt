@@ -1,0 +1,9 @@
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\bin\Debug\string_methods.exe
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\bin\Debug\string_methods.pdb
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\obj\Debug\string_methods.csprojAssemblyReference.cache
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\obj\Debug\string_methods.Form1.resources
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\obj\Debug\string_methods.Properties.Resources.resources
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\obj\Debug\string_methods.csproj.GenerateResource.cache
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\obj\Debug\string_methods.csproj.CoreCompileInputs.cache
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\obj\Debug\string_methods.exe
+C:\Users\Rec User\source\repos\string_methods_ns\string_methods\obj\Debug\string_methods.pdb
